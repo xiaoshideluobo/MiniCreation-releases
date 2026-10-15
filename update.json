@@ -4,7 +4,7 @@
   "channel": "stable",
   "version": "1.0.2",
   "title": "MiniCreation 1.0.2",
-  "publishedAt": "2026-10-15T06:21:53.828Z",
+  "publishedAt": "2026-10-15T06:23:05.917Z",
   "releaseNotes": [
     "修复一个可能悄悄丢数据的隐患：对话结束后如果子智能体迟到回报进度，本地已保存的子智能体运行记录会被一条残缺记录整条覆盖。现在这类迟到消息只更新过程看板，不再改写已保存的记录。",
     "修复“展开过程详情后界面仍然一片空白”：读回的思考过程、处理步骤与工具记录现在会真正显示出来。",
@@ -24,5 +24,5 @@
   "mandatory": false,
   "minimumSupportedVersion": "1.0.0",
   "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.0.2",
-  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/latest/download"
+  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.0.2"
 }
