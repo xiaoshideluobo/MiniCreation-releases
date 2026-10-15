@@ -1,0 +1,24 @@
+MiniCreation
+Copyright (c) 2026 MiniCreation. All rights reserved.
+
+本产品包含以下第三方或上游开源组件，其权利归各自权利人所有。
+
+1. 上游应用代码（Apache License 2.0）
+
+   本产品的一部分应用代码来源于一个以 Apache License 2.0 授权发布的开源项目，并在其
+   基础上进行了大量修改、重构与重新品牌化。该部分内容仍受 Apache License 2.0 约束，
+   许可证全文保留在 LICENSES/Apache-2.0.txt。上游源代码以 Apache License 2.0 原始模板
+   形式发布，未包含具名的著作权声明或额外的 NOTICE 文件，因此此处按原始发布形式保留
+   许可证全文。
+
+2. Electron 与 Chromium
+
+   桌面运行时由 Electron 提供，Electron 内含 Chromium 及其他第三方组件，其许可证文本
+   随发行版提供（LICENSE.electron.txt、LICENSES.chromium.html）。
+
+3. 其他第三方依赖
+
+   构建与运行所依赖的其他开源软件包，其许可条款见各软件包自带的许可证声明。
+
+除上述开源组件外，本产品的全部内容均为专有软件，适用根目录 LICENSE 文件中的
+MiniCreation 专有软件许可协议。
