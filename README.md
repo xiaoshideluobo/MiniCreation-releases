@@ -1,6 +1,6 @@
 # MiniCreation 发布仓库
 
-这个仓库只放 **MiniCreation 的安装包和更新清单**，不包含任何源代码。应用程序的源代码保存在私有仓库，不对外公开。
+这个仓库是 **MiniCreation 的安装包和更新清单**。
 
 ## 下载安装包
 
@@ -22,13 +22,6 @@ Windows：运行 `.exe`，按向导完成安装。
 应用启动后会读取最新 Release 里的 `update.json`，与当前版本比较后提示更新，安装包由应用自行下载。
 
 本仓库 `main` 分支下的 `update.json` 是同一份清单的副本，供 CDN 镜像读取；两处内容保持一致，正文以 Release 附件为准。
-
-## 这里有哪些文件
-
-- Release 附件：各平台安装包、`latest-*.yml`（更新用的版本与校验信息）、`update.json`（更新公告与下载地址）。
-- `main` 分支：本说明文件、`update.json` 副本、`NOTICE` 与 `LICENSES/Apache-2.0.txt` 许可证说明。
-
-这里**没有**应用程序源代码、构建脚本或任何密钥、账号等配置文件。
 
 ## 许可证声明
 
