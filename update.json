@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "enabled": true,
   "channel": "stable",
-  "version": "1.0.3",
-  "title": "MiniCreation 1.0.3",
-  "publishedAt": "2026-10-15T07:25:11.732Z",
+  "version": "1.0.4",
+  "title": "MiniCreation 1.0.4",
+  "publishedAt": "2026-10-15T11:29:32.773Z",
   "releaseNotes": [
-    "安装包下载改走国内加速通道：更新下载速度从原来的几十 KB/s 提升到 20 MB/s 以上，网络不畅时也能正常下完。",
-    "更新地址按版本号固定：不会再因为加速服务的缓存读到上一个版本的更新信息而更新失败。",
-    "应用内公告恢复可用：公告内容放在公开的下载仓库里，改完不需要发布新版本，应用在启动和切回窗口时自动读取，约几分钟生效。",
-    "修复公告请求可能把公共数据服务的访问密钥发送给第三方加速服务的问题。"
+    "macOS 一键更新修复：更新包下载完成后，应用会自己完成替换并自动重新打开，不会再出现点了「重启并安装」却没有任何反应的情况。",
+    "重要：1.0.3 及更早版本不含这个修复，请先手动下载安装一次 1.0.4；从 1.0.4 升级到后续版本开始，才能真正一键完成更新。",
+    "安装位置无法自动替换时（例如没有系统目录的写权限），应用会在关闭窗口前说明原因，不再静默失败。",
+    "Windows 与 Linux 的更新方式保持不变，仍然由系统安装器完成。"
   ],
   "mandatory": false,
   "minimumSupportedVersion": "1.0.0",
-  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.0.3",
-  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.0.3"
+  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.0.4",
+  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.0.4"
 }
