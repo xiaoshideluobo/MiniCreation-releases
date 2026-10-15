@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "enabled": true,
   "channel": "stable",
-  "version": "1.0.4",
-  "title": "MiniCreation 1.0.4",
-  "publishedAt": "2026-10-15T11:29:32.773Z",
+  "version": "1.0.5",
+  "title": "MiniCreation 1.0.5",
+  "publishedAt": "2026-10-15T14:36:39.383Z",
   "releaseNotes": [
-    "macOS 一键更新修复：更新包下载完成后，应用会自己完成替换并自动重新打开，不会再出现点了「重启并安装」却没有任何反应的情况。",
-    "重要：1.0.3 及更早版本不含这个修复，请先手动下载安装一次 1.0.4；从 1.0.4 升级到后续版本开始，才能真正一键完成更新。",
-    "安装位置无法自动替换时（例如没有系统目录的写权限），应用会在关闭窗口前说明原因，不再静默失败。",
-    "Windows 与 Linux 的更新方式保持不变，仍然由系统安装器完成。"
+    "本次更新的是订阅服务：激活授权后解锁短篇分析、长篇分析、整书拆解、长篇转素材库、修改分析与文风比对。",
+    "已经订阅的用户权益同步生效，无需重新购买或重新激活。",
+    "没有订阅的用户不受影响：写作、编辑、导入导出、素材库与技能库等基础功能照常使用，只是上面这几项分析需要授权。",
+    "授权新增设备绑定：一份授权最多绑定两台设备，设置页会显示本机设备码；此前签发的激活码不受影响，仍然可以正常激活。"
   ],
   "mandatory": false,
   "minimumSupportedVersion": "1.0.0",
-  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.0.4",
-  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.0.4"
+  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.0.5",
+  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.0.5"
 }
