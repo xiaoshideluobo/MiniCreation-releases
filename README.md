@@ -21,7 +21,8 @@
 | Windows x64 | `MiniCreation-<版本>-win-x64-test.exe` |
 | macOS Apple Silicon（M 系列） | `MiniCreation-<版本>-mac-arm64-test.dmg` |
 | macOS Intel | `MiniCreation-<版本>-mac-x64-test.dmg` |
-| Linux x64 | `MiniCreation-<版本>-linux-x64-test.AppImage` |
+| Linux x64 | `MiniCreation-<版本>-linux-x86_64-test.AppImage` |
+| Linux x64（Debian / Ubuntu） | `MiniCreation-<版本>-linux-amd64-test.deb` |
 
 macOS：打开 `.dmg`，把 MiniCreation 拖进“应用程序”文件夹。目前安装包使用 ad-hoc 签名，没有经过 Apple 公证；从浏览器、微信等渠道下载后，系统可能提示“来自身份不明的开发者”。确认来源可信后，右键应用选择“打开”，或到“系统设置 → 隐私与安全性”里允许打开。
 
