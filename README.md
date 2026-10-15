@@ -39,8 +39,6 @@ Windows：运行 `.exe`，按向导完成安装。安装包未做代码签名，
 - Release 附件：各平台安装包、`latest-*.yml`（更新用的版本与校验信息）、`update.json`（更新公告与下载地址）。
 - `main` 分支：本说明文件、`screenshots/` 界面截图、`update.json` 副本、`NOTICE` 与 `LICENSES/Apache-2.0.txt` 许可证说明。
 
-这里**没有**应用程序源代码、构建脚本或任何密钥、账号等配置文件。
-
 ## 许可证声明
 
 安装包中的程序为专有软件，其中包含第三方与上游开源组件（Apache License 2.0）。相关声明见 [`NOTICE`](./NOTICE)，许可证全文见 [`LICENSES/Apache-2.0.txt`](./LICENSES/Apache-2.0.txt)，专有许可条款随安装包一并提供。
