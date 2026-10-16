@@ -8,11 +8,10 @@
   "releaseNotes": [
     "本次更新的是订阅服务：书名·简介·封面（含封面图生成）与更新通道退出付费项，不再需要订阅。",
     "已经订阅的用户权益同步生效，无需重新购买或重新激活；短篇分析、长篇分析、整书拆解、长篇转素材库、修改分析与文风比对仍需要激活授权。",
-    "没有订阅的用户不受影响：写作、编辑、导入导出、素材库与技能库等基础功能照常使用，「更多功能」里的书名·简介·封面只要在设置里配置好模型就能直接使用。",
-    "另外隐藏了个人菜单里的「联系作者」入口。"
+    "没有订阅的用户不受影响：写作、编辑、导入导出、素材库与技能库等基础功能照常使用，「更多功能」里的书名·简介·封面只要在设置里配置好模型就能直接使用。"
   ],
   "mandatory": false,
-  "minimumSupportedVersion": "1.0.0",
+  "minimumSupportedVersion": "1.0.6",
   "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.0.6",
   "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.0.6"
 }
