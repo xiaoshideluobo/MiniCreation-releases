@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "enabled": true,
   "channel": "stable",
-  "version": "1.0.5",
-  "title": "MiniCreation 1.0.5",
-  "publishedAt": "2026-10-15T14:36:39.383Z",
+  "version": "1.0.6",
+  "title": "MiniCreation 1.0.6",
+  "publishedAt": "2026-10-16T04:09:36.874Z",
   "releaseNotes": [
-    "本次更新的是订阅服务：激活授权后解锁短篇分析、长篇分析、整书拆解、长篇转素材库、修改分析与文风比对。",
-    "已经订阅的用户权益同步生效，无需重新购买或重新激活。",
-    "没有订阅的用户不受影响：写作、编辑、导入导出、素材库与技能库等基础功能照常使用，只是上面这几项分析需要授权。",
-    "授权新增设备绑定：一份授权最多绑定两台设备，设置页会显示本机设备码；此前签发的激活码不受影响，仍然可以正常激活。"
+    "本次更新的是订阅服务：书名·简介·封面（含封面图生成）与更新通道退出付费项，不再需要订阅。",
+    "已经订阅的用户权益同步生效，无需重新购买或重新激活；短篇分析、长篇分析、整书拆解、长篇转素材库、修改分析与文风比对仍需要激活授权。",
+    "没有订阅的用户不受影响：写作、编辑、导入导出、素材库与技能库等基础功能照常使用，「更多功能」里的书名·简介·封面只要在设置里配置好模型就能直接使用。",
+    "另外隐藏了个人菜单里的「联系作者」入口。"
   ],
   "mandatory": false,
   "minimumSupportedVersion": "1.0.0",
-  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.0.5",
-  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.0.5"
+  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.0.6",
+  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.0.6"
 }
