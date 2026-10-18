@@ -2,14 +2,6 @@
 
 面向长篇小说、短篇与剧本的本地写作客户端：作品以本地 Markdown 保存，智能体围绕阶段、章节与正文协作修改。
 
-## 界面
-
-![主工作台：左侧资源树、中间智能体对话、右侧内容编辑器](./screenshots/workspace-overview.png)
-
-![智能体协作写作与正文编辑](./screenshots/agent-manuscript.png)
-
-![智能体修改 Diff 与接受或拒绝操作](./screenshots/edit-diff.png)
-
 ## 下载安装包
 
 打开 [Releases](https://github.com/xiaoshideluobo/MiniCreation-releases/releases) 页面，按系统选择对应的文件：
