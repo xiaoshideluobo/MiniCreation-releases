@@ -1,24 +1,63 @@
 MiniCreation
 Copyright (c) 2026 MiniCreation. All rights reserved.
 
-本产品包含以下第三方或上游开源组件，其权利归各自权利人所有。
+本文件汇集 MiniCreation 发行物中需要保留的第三方署名、许可证与修改声明。
 
-1. 上游应用代码（Apache License 2.0）
+1. DeepWrite（Apache License 2.0）
 
-   本产品的一部分应用代码来源于一个以 Apache License 2.0 授权发布的开源项目，并在其
-   基础上进行了大量修改、重构与重新品牌化。该部分内容仍受 Apache License 2.0 约束，
-   许可证全文保留在 LICENSES/Apache-2.0.txt。上游源代码以 Apache License 2.0 原始模板
-   形式发布，未包含具名的著作权声明或额外的 NOTICE 文件，因此此处按原始发布形式保留
-   许可证全文。
+   上游项目：DeepWrite
+   上游仓库：https://github.com/swjybky/deepwrite
+   商用基线：v1.6.4
+   基线提交：69858fb1ae60a1fcc84b71122f945b1c86949049
+   基线快照：https://github.com/swjybky/deepwrite/commit/69858fb1ae60a1fcc84b71122f945b1c86949049
+   基线许可证：https://github.com/swjybky/deepwrite/blob/69858fb1ae60a1fcc84b71122f945b1c86949049/LICENSE
+   基线日期：2026-10-08
+   上游许可证：Apache License 2.0
+   许可证全文：LICENSES/Apache-2.0.txt
 
-2. Electron 与 Chromium
+   MiniCreation 以该基线为基础进行了大量修改、重构、重新品牌化及功能增删。
+   修改始于 2026-10-09，并持续至本发行物构建时；修改性质、范围和日期见
+   MODIFICATIONS.md。所有可承载注释的修改文件均在文件头保留变更声明；JSON、
+   图片、标准许可证文本和生成锁文件等不能承载注释的格式，由 MODIFICATIONS.md
+   集中列明。
 
-   桌面运行时由 Electron 提供，Electron 内含 Chromium 及其他第三方组件，其许可证文本
-   随发行版提供（LICENSE.electron.txt、LICENSES.chromium.html）。
+   经核对，v1.6.4 的仓库树中没有 NOTICE 文件；其 package.json 未声明 author
+   或 license 字段，源文件中也未见逐文件版权头。因此不存在可从该基线逐字保留的
+   额外 NOTICE 署名。该基线 README 载明：“DeepWrite 基于 Apache License 2.0
+   开源。” 本发行物保留 Apache License 2.0 全文，并在本文件及 MODIFICATIONS.md
+   中保留上游名称、版本、提交和修改说明。如权利人认为本文件遗漏了应保留的声明，
+   请联系 MiniCreation 更正。
 
-3. 其他第三方依赖
+2. Electron
 
-   构建与运行所依赖的其他开源软件包，其许可条款见各软件包自带的许可证声明。
+   Electron 以 MIT License 发布，版权归 Electron contributors 所有。许可证
+   全文随本仓库和安装包提供（LICENSES/Electron-MIT.txt）。
 
-除上述开源组件外，本产品的全部内容均为专有软件，适用根目录 LICENSE 文件中的
-MiniCreation 专有软件许可协议。
+3. Chromium 与 Electron 内置第三方组件
+
+   Electron 内含 Chromium 及其他第三方组件。相关许可证与署名随安装包提供
+   （LICENSES/Chromium.html）。
+
+4. 其他第三方依赖
+
+   构建与运行所依赖的其他开源软件包，其许可条款以各软件包发布时附带的许可证
+   声明为准。
+
+除上述开源组件外，本产品的 MiniCreation 原创部分为专有软件，适用根目录 LICENSE
+文件中的 MiniCreation 专有软件许可协议。Apache-2.0 衍生成分仍按 Apache License
+2.0 授权，不受该专有协议中的非商业使用、禁止复制、禁止修改或禁止再发布条款限制。
+
+-------------------------------------------------------------------------------
+
+Notice (English summary)
+
+This product includes code derived from DeepWrite v1.6.4 (commit
+69858fb1ae60a1fcc84b71122f945b1c86949049), licensed under the Apache License
+2.0. The upstream repository is https://github.com/swjybky/deepwrite. The full
+license text is retained in LICENSES/Apache-2.0.txt. The upstream v1.6.4 tree
+contained no NOTICE file and its package.json declared no author or license
+field. MiniCreation's modifications are described in MODIFICATIONS.md.
+
+Electron is licensed under the MIT License; see LICENSES/Electron-MIT.txt.
+Chromium and other third-party components included in Electron are covered by
+the license texts shipped with the installers.

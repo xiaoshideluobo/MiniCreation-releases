@@ -1,0 +1,139 @@
+MiniCreation 专有软件许可协议
+MiniCreation Proprietary License
+
+Copyright (c) 2026 MiniCreation. All rights reserved.
+
+本版权声明仅适用于 MiniCreation 原创部分；Apache-2.0 衍生成分的版权归其各自
+权利人所有。
+
+本协议适用于 MiniCreation 原创部分。本软件同时包含按 Apache License 2.0 授权的
+上游衍生成分；该等成分的许可条件见第二条，并在与本协议冲突时优先适用。
+
+一、定义
+
+1. “MiniCreation 原创部分”指由 MiniCreation 作者独立创作、且不来源于 DeepWrite
+   上游项目的源代码、文档、界面设计、名称、图标及其他材料。
+2. “Apache-2.0 衍生成分”指本软件中来源于 DeepWrite v1.6.4（Apache License
+   2.0）的代码，以及对该等代码所作的修改、翻译、演绎和其他衍生作品，包括相应
+   文件的修改版本。
+3. “本软件”指 MiniCreation 发行物整体，包括上述两部分。
+
+二、Apache-2.0 衍生成分
+
+1. Apache-2.0 衍生成分继续按 Apache License 2.0 授权。许可证全文保留在
+   LICENSES/Apache-2.0.txt。
+2. 您对 Apache-2.0 衍生成分享有的复制、修改、商业使用、再分发等权利，以
+   Apache License 2.0 为准。本协议第三条、第四条中的非商业使用、禁止复制、
+   禁止修改、禁止再发布等限制不适用于该等成分。
+3. 根据 Apache License 2.0 第 4 条，分发本软件时须随附
+   LICENSES/Apache-2.0.txt、NOTICE 和 MODIFICATIONS.md，并保留其中关于
+   DeepWrite 的署名、许可证和修改声明。
+
+三、MiniCreation 原创部分的许可范围
+
+在遵守本协议全部条款的前提下，您仅可为个人学习、研究及非商业性的个人使用目的，
+下载、安装并使用 MiniCreation 原创部分。除本协议明确授予的权利外，未授予任何
+其他明示或默示的权利。
+
+四、MiniCreation 原创部分的禁止行为
+
+未经著作权人事先书面许可，任何人不得对 MiniCreation 原创部分实施下列行为：
+
+1. 用于商业用途，包括但不限于：销售、出租、按次收费、以 MiniCreation 原创部分
+   为基础提供收费服务、将其集成到商业产品或服务中对外提供；
+2. 复制、修改、翻译、演绎、再发布、再许可、出售或转让；
+3. 进行反向工程、反编译或反汇编，但法律强制性规定允许的除外；
+4. 移除、遮蔽或篡改 MiniCreation 原创部分中的著作权声明、商标、标识、界面署名
+   或其他权利标识；
+5. 将 MiniCreation 原创部分或其衍生作品以任何形式提供给第三方，用于上述被禁止
+   的目的。
+
+五、免责声明
+
+本软件按“现状”提供，不附带任何明示或默示的担保，包括但不限于对适销性、特定
+用途适用性及不侵权的担保。在任何情况下，著作权人均不对因使用或无法使用本软件
+而产生的任何直接、间接、偶然、特殊或后果性损失承担责任。本款不限制 Apache
+License 2.0 就 Apache-2.0 衍生成分所规定的权利与义务。
+
+六、协议终止
+
+您一旦违反本协议中适用于 MiniCreation 原创部分的条款，本协议授予的相应许可即
+自动终止，您应立即停止使用并删除 MiniCreation 原创部分的全部副本。Apache-2.0
+衍生成分的许可终止条件以 Apache License 2.0 为准。著作权人保留追究法律责任
+的权利。
+
+七、商业授权
+
+如需将 MiniCreation 原创部分用于商业用途，请联系著作权人取得书面授权：
+
+微信：hb7890s
+
+-------------------------------------------------------------------------------
+
+MiniCreation Proprietary License (English summary)
+
+Copyright (c) 2026 MiniCreation. All rights reserved.
+
+This copyright notice applies only to the MiniCreation Original Parts. Copyright
+in the Apache-2.0 Derivative Parts remains with their respective owners.
+
+This License applies to the MiniCreation Original Parts. The Software also
+contains Upstream Derivative Parts licensed under the Apache License 2.0, whose
+terms are set out in Section 2 and prevail over this License where they conflict.
+
+1. Definitions
+
+   "MiniCreation Original Parts" means source code, documentation, interface
+   designs, names, icons and other materials independently created by the
+   MiniCreation authors and not derived from the DeepWrite upstream project.
+
+   "Apache-2.0 Derivative Parts" means code in the Software derived from
+   DeepWrite v1.6.4 under the Apache License 2.0, together with modifications,
+   translations, adaptations and other derivative works of that code, including
+   modified versions of the corresponding files.
+
+2. Apache-2.0 Derivative Parts
+
+   The Apache-2.0 Derivative Parts remain licensed under the Apache License 2.0.
+   The full license text is retained in LICENSES/Apache-2.0.txt. Rights to copy,
+   modify, use commercially and redistribute those parts are governed by the
+   Apache License 2.0 and are not restricted by the non-commercial, no-copy,
+   no-modification or no-redistribution terms in Sections 3 and 4. When
+   distributing the Software, you must include LICENSES/Apache-2.0.txt, NOTICE
+   and MODIFICATIONS.md as required by Section 4 of the Apache License 2.0.
+
+3. License Scope for MiniCreation Original Parts
+
+   Subject to this License, you may download, install and use the MiniCreation
+   Original Parts only for personal study, research and non-commercial personal
+   use. No other express or implied rights are granted.
+
+4. Prohibited Acts Regarding MiniCreation Original Parts
+
+   Without prior written permission from the copyright holder, you may not use
+   the MiniCreation Original Parts commercially; copy, modify, translate, adapt,
+   redistribute, sublicense, sell or transfer them; reverse engineer, decompile
+   or disassemble them except where mandatory law permits; remove or obscure
+   their copyright, trademark, attribution or other rights notices; or provide
+   them to third parties for the prohibited purposes above.
+
+5. Disclaimer
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. This disclaimer does
+   not limit the rights or obligations that the Apache License 2.0 establishes
+   for the Apache-2.0 Derivative Parts.
+
+6. Termination
+
+   If you breach a provision of this License that applies to the MiniCreation
+   Original Parts, the license granted for those parts terminates automatically
+   and you must stop using and delete all copies of those parts. Termination of
+   the license for the Apache-2.0 Derivative Parts is governed by the Apache
+   License 2.0.
+
+7. Commercial Licensing
+
+   For commercial use of the MiniCreation Original Parts, contact the copyright
+   holder on WeChat: hb7890s.
