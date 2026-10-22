@@ -2,21 +2,20 @@
   "schemaVersion": 1,
   "enabled": true,
   "channel": "stable",
-  "version": "1.1.0",
-  "title": "MiniCreation 1.1.0",
-  "publishedAt": "2026-10-20T09:29:19.000Z",
+  "version": "1.1.1",
+  "title": "MiniCreation 1.1.1",
+  "publishedAt": "2026-10-22T15:57:10+08:00",
   "releaseNotes": [
-    "长篇创作新增连续性工作区：人物、设定、伏笔与章节状态可以集中查看，写作时随时对照前文。",
-    "连续性检查提供「严格 / 提示 / 关闭」三档，创造者可以按自己的写作节奏选择提醒方式。",
-    "长篇资料导入与章节识别更稳定，校对完成后可以直接继续创作，每次调整都留有清晰依据。",
-    "长对话会自动整理记忆，无需手动压缩；上下文占用与续写衔接显示得更清楚。",
-    "本地模型与自定义模型采用一致的配置方式，切换模型更顺手。",
-    "写作台与更多功能页面完成视觉统一，图标、间距与明暗主题更协调。",
-    "新增界面语言切换与新手引导，第一次使用也能快速找到主要功能。",
-    "版本更新说明更清楚，更新前可以先了解这一版带来了哪些变化。"
+    "广场新增官方内容：写作技能和智能体团队可以直接安装，不用登录，装完就能用。",
+    "广场搜索两边都好用：技能与智能体都能搜，搜官方内容同样会过滤。",
+    "广场卡片换成应用统一的图标，详情弹窗的关闭按钮也和其他弹窗保持一致。",
+    "拆书分析等功能在侧栏有了各自独立的位置，找起来更直观。",
+    "侧栏与上下文占用显示更清楚，助手标记也统一了。",
+    "智能体卡住不动时能被及时发现，并给出下一步提示。",
+    "帮助与入门页面补上了广场与智能体团队的说明。"
   ],
   "mandatory": false,
   "minimumSupportedVersion": "1.0.0",
-  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.1.0",
-  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.1.0"
+  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.1.1",
+  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.1.1"
 }
