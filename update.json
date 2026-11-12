@@ -2,20 +2,18 @@
   "schemaVersion": 1,
   "enabled": true,
   "channel": "stable",
-  "version": "1.1.1",
-  "title": "MiniCreation 1.1.1",
-  "publishedAt": "2026-10-22T15:57:10+08:00",
+  "version": "1.1.2",
+  "title": "MiniCreation 1.1.2",
+  "publishedAt": "2026-11-12T22:59:16+08:00",
   "releaseNotes": [
-    "广场新增官方内容：写作技能和智能体团队可以直接安装，不用登录，装完就能用。",
-    "广场搜索两边都好用：技能与智能体都能搜，搜官方内容同样会过滤。",
-    "广场卡片换成应用统一的图标，详情弹窗的关闭按钮也和其他弹窗保持一致。",
-    "拆书分析等功能在侧栏有了各自独立的位置，找起来更直观。",
-    "侧栏与上下文占用显示更清楚，助手标记也统一了。",
-    "智能体卡住不动时能被及时发现，并给出下一步提示。",
-    "帮助与入门页面补上了广场与智能体团队的说明。"
+    "增加 MCP 服务连接与作品只读共享。",
+    "完善长篇人物关系、故事规划和智能体团队绑定。",
+    "优化对话操作、设置窗口与关于页面，加入官网入口。",
+    "增加本机版本保存、预览和恢复，增强云备份安全性。",
+    "改进应用退出、保存状态和错误提示。"
   ],
   "mandatory": false,
   "minimumSupportedVersion": "1.0.0",
-  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.1.1",
-  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.1.1"
+  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.1.2",
+  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.1.2"
 }
