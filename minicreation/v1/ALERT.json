@@ -1,11 +1,10 @@
 {
   "desketop": [
-    "MiniCreation 已更新至 1.1.2。",
-    "新增 MCP 服务连接与作品只读共享。",
-    "完善长篇人物关系、智能体团队绑定和写作规划。",
-    "优化对话、设置、关于页面和本机版本恢复。",
+    "MiniCreation 已更新至 1.1.3。",
+    "精简剧本欢迎页和侧栏品牌展示。",
+    "完善官方广场的写作审核内容。",
     "提供 macOS Apple 芯片版和 Windows 安装包。"
   ],
   "model": [],
-  "pcLatestVersion": "1.1.2"
+  "pcLatestVersion": "1.1.3"
 }
