@@ -1,10 +1,10 @@
 {
   "desketop": [
-    "MiniCreation 已更新至 1.1.4。",
-    "数据备份并入设置，侧栏不再单列入口。",
-    "设备同步与云端备份收进同一页，用标签切换。",
+    "MiniCreation 已更新至 1.1.5。",
+    "优化数据与备份页面的布局与交互。",
+    "改进长篇作品的角色关系和创建流程。",
     "提供 macOS Apple 芯片版和 Windows 安装包。"
   ],
   "model": [],
-  "pcLatestVersion": "1.1.4"
+  "pcLatestVersion": "1.1.5"
 }
