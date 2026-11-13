@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "enabled": true,
   "channel": "stable",
-  "version": "1.1.3",
-  "title": "MiniCreation 1.1.3",
-  "publishedAt": "2026-11-13T15:57:18+08:00",
+  "version": "1.1.4",
+  "title": "MiniCreation 1.1.4",
+  "publishedAt": "2026-11-13T11:59:49.484Z",
   "releaseNotes": [
-    "精简剧本欢迎页，移除快捷入口和智能体说明。",
-    "调整侧栏品牌展示，去除不必要的按钮效果。",
-    "完善官方广场的写作审核内容。"
+    "「数据备份」并入设置，侧栏不再单列入口。",
+    "设备同步与云端备份收进同一页，用标签切换。",
+    "保存与备份的说明集中在一处，找起来更直接。"
   ],
   "mandatory": false,
   "minimumSupportedVersion": "1.0.0",
-  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.1.3",
-  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.1.3"
+  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.1.4",
+  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.1.4"
 }
