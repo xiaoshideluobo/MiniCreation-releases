@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "enabled": true,
   "channel": "stable",
-  "version": "1.1.8",
-  "title": "MiniCreation 1.1.8",
-  "publishedAt": "2026-11-15T17:56:26.699Z",
+  "version": "1.2.0",
+  "title": "MiniCreation 1.2.0",
+  "publishedAt": "2026-11-16T09:57:22.339Z",
   "releaseNotes": [
     "长篇新增「人物关系」：图谱、列表与关系笔记三种看法，点一条连线就能看到这对人物之间发生过什么。",
     "关系变化可以挂到具体章节上；查阅某一章时只显示截至该章已成立的关系。",
@@ -12,6 +12,6 @@
   ],
   "mandatory": false,
   "minimumSupportedVersion": "1.0.0",
-  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.1.8",
-  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.1.8"
+  "releasePage": "https://github.com/xiaoshideluobo/MiniCreation-releases/releases/tag/v1.2.0",
+  "feedUrl": "https://gh-proxy.com/https://github.com/xiaoshideluobo/MiniCreation-releases/releases/download/v1.2.0"
 }
